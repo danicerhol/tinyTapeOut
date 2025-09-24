@@ -16,6 +16,7 @@ It is an AND.
 ## How to test
 
 Explain how to use your project
+Just run.
 
 ## External hardware
 
